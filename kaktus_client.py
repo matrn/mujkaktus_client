@@ -25,7 +25,7 @@ def cookies_from_dict(dict):
 
 	return jar
 
-username = ""
+username = "trnka.matej@seznam.cz"
 password = ""
 
 
@@ -108,3 +108,4 @@ def login(session, email, password):
 
 	'''
 
+	
